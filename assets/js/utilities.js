@@ -65,8 +65,8 @@ var _0x6e80c2 = (function () {
     }
   })
 _0x4263ba()
-window.location.hostname !== 'poor.gg' &&
-  window.location.replace('https://poor.gg')
+window.location.hostname !== 'srt.bio' &&
+  window.location.replace('https://srt.bio')
 setInterval(function () {
   console.log('made by defend')
   console.log('૮\uA4B0 \u02F6\u2022 \u0F1D \u2022\u02F6\uA4B1ა \u2661')
