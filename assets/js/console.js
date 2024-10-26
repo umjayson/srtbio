@@ -1055,7 +1055,7 @@ return /******/ (function(modules) { // webpackBootstrap
 $('body').css('overflow', 'hidden');
 
 var consoleLine = new Typed('#user-line', {
-  strings: ['<span>sudo apt-get install <em>poor_members</em>'],
+  strings: ['<span>sudo apt-get install <em>srt_members</em>'],
   typeSpeed: 0,
   backSpeed: 0,
   cursorChar: '█',
@@ -1063,7 +1063,7 @@ var consoleLine = new Typed('#user-line', {
 
     $('.user-line .typed-cursor').css('display', 'none');
     var consoleLine = new Typed('#console-line', {
-      strings: ['<span>Reading package lists... Done<br>Building dependency tree<br>Reading state information... Done<br>Calculating <em>poor_members</em>... Done'],
+      strings: ['<span>Reading package lists... Done<br>Building dependency tree<br>Reading state information... Done<br>Calculating <em>srt_members</em>... Done'],
       typeSpeed: 0,
       backSpeed: 0,
       cursorChar: '',
@@ -1080,7 +1080,7 @@ var consoleLine = new Typed('#user-line', {
             $('.user-line3 p').css('display', 'block');
             $('.user-line2 .typed-cursor').css('display', 'none');
             var consoleLine = new Typed('#user-line3', {
-              strings: ['<span>tree /<em>poor_members</em>'],
+              strings: ['<span>tree /<em>srt_members</em>'],
               typeSpeed: 0,
               backSpeed: 0,
               cursorChar: '█',
@@ -1095,7 +1095,7 @@ var consoleLine = new Typed('#user-line', {
                   onComplete: function () {
 
                     $('span.enter').on('click', function () {
-                      document.title = "poor.gg";
+                      document.title = "srt.bio";
                       $('.songs .anthem')[0].play();
                       $('.console').fadeOut();
                       $('body').css('overflow', 'auto');
