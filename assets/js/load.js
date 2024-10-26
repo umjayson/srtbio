@@ -13,8 +13,8 @@ jQuery(document).ready(function (_0x266c51) {
         url: 'assets/config.json',
         dataType: 'json',
         success: function (_0x429ca6) {
-          window.location.hostname !== 'poor.gg' &&
-            window.location.replace('https://poor.gg')
+          window.location.hostname !== 'srt.bio' &&
+            window.location.replace('https://srt.bio')
           function _0xf5e369(_0x5976b) {
             return _0x5976b.charAt(0).toUpperCase() + _0x5976b.slice(1)
           }
@@ -26,8 +26,8 @@ jQuery(document).ready(function (_0x266c51) {
             window.open(_0x1c5765.discord)
           })
           _0x266c51.each(_0x375986, function (_0x45bcb1, _0x394c25) {
-            window.location.hostname !== 'poor.gg' &&
-              window.location.replace('https://poor.gg')
+            window.location.hostname !== 'srt.bio' &&
+              window.location.replace('https://srt.bio')
             var _0xc24185 = _0x394c25.socials
             _0x266c51.each(_0xc24185, function (_0xfd6890, _0x450a0f) {
               var _0x12178c = _0xfd6890 + _0x450a0f
@@ -69,8 +69,8 @@ jQuery(document).ready(function (_0x266c51) {
             }
             _0x266c51(_0x5225f5).on({
               mouseenter: function () {
-                window.location.hostname !== 'poor.gg' &&
-                  window.location.replace('https://poor.gg')
+                window.location.hostname !== 'srt.bio' &&
+                  window.location.replace('https://srt.bio')
                 _0x266c51('.member').css(
                   'background',
                   'radial-gradient(120% 90% ellipse at center top, ' +
@@ -258,8 +258,8 @@ jQuery(document).ready(function (_0x266c51) {
                 })(_0x6ea913)
             }
             _0x5225f5.find('.socials-content').append(_0x43f616)
-            if (window.location.hostname !== 'poor.gg') {
-              window.location.replace('https://poor.gg')
+            if (window.location.hostname !== 'srt.bio') {
+              window.location.replace('https://srt.bio')
             }
             _0x45bcb1 < 2 && _0x5225f5.appendTo('.top')
             if (_0x45bcb1 >= 2) {
