@@ -1,3 +1,4 @@
+
 /*!
  * 
  *   typed.js - A JavaScript Typing Animation Library
@@ -1058,7 +1059,7 @@ var consoleLine = new Typed('#user-line', {
   strings: ['<span>sudo apt-get install <em>srt_members</em>'],
   typeSpeed: 0,
   backSpeed: 0,
-  cursorChar: '█',
+  cursorChar: 'â–ˆ',
   onComplete: function () {
 
     $('.user-line .typed-cursor').css('display', 'none');
@@ -1074,7 +1075,7 @@ var consoleLine = new Typed('#user-line', {
           strings: [' <span>cd ~/documents'],
           typeSpeed: 0,
           backSpeed: 0,
-          cursorChar: '█',
+          cursorChar: 'â–ˆ',
           onComplete: function () {
 
             $('.user-line3 p').css('display', 'block');
@@ -1083,16 +1084,12 @@ var consoleLine = new Typed('#user-line', {
               strings: ['<span>tree /<em>srt_members</em>'],
               typeSpeed: 0,
               backSpeed: 0,
-              cursorChar: '█',
+              cursorChar: 'â–ˆ',
               onComplete: function () {
 
                 $('.user-line3 .typed-cursor').css('display', 'none');
                 var consoleLine = new Typed('#console-line2', {
-                  strings: [
-                    '<span class="folder">└─── <em>assets</em></span><br>' +
-                    '<span class="enter">&emsp;&emsp;├─── members.html</span><br>' +
-                    '<span class="source">&emsp;&emsp;└─── source_code.zip</span>'
-                  ],
+                  strings: ['<span class="folder">â””â”€â”€â”€ <em>assets</em></span><br><span class="enter">&emsp;&emsp;â”œâ”€â”€â”€ members.html</span><br><span>&emsp;&emsp;â”œâ”€â”€â”€ nostalgia.html</span><br><span class="source">&emsp;&emsp;â”œâ”€â”€â”€ source_code.zip</span><br><span class="folder ruub-item">&emsp;&emsp;â””â”€â”€â”€ made_by_ruub.txt</span>'],
                   typeSpeed: 0,
                   backSpeed: 0,
                   cursorChar: '',
@@ -1106,6 +1103,10 @@ var consoleLine = new Typed('#user-line', {
                     });
 
                     document.title = "click an option";
+
+                    $('span.ruub-item').on('click', function () {
+                      window.open("https://discord.gg/stupid");
+                    });
 
                     $('span.source').on('click', function () {
                       window.open("https://www.youtube.com/watch?v=dQw4w9WgXcQ");
