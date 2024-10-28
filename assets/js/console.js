@@ -1089,8 +1089,7 @@ var consoleLine = new Typed('#user-line', {
 
                 $('.user-line3 .typed-cursor').css('display', 'none');
                 var consoleLine = new Typed('#console-line2', {
-                  strings: [
-                    '<span class="folder">\u2514\u2500\u2500\u2500<em> assets</em></span><br><span class="enter">\u2003\u2003\u251C\u2500\u2500\u2500 members.html</span><br><span class="source">\u2003\u2003\u251C\u2500\u2500\u2500 source_code.zip</span><br><span class="folder ruub-item">\u2003\u2003\u251C\u2500\u2500\u2500 join_stupid.txt</span>',
+                  strings: ['<span class="folder">\u2514\u2500\u2500\u2500<em> assets</em></span><br><span class="enter">\u2003\u2003\u251C\u2500\u2500\u2500 members.html</span><br><span class="source">\u2003\u2003\u251C\u2500\u2500\u2500 source_code.zip</span><br><span class="folder ruub-item">\u2003\u2003\u251C\u2500\u2500\u2500 join_stupid.txt</span>',
                   typeSpeed: 0,
                   backSpeed: 0,
                   cursorChar: '',
