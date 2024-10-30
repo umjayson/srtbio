@@ -1,4 +1,3 @@
-
 /*!
  * 
  *   typed.js - A JavaScript Typing Animation Library
@@ -1059,7 +1058,7 @@ var consoleLine = new Typed('#user-line', {
   strings: ['<span>sudo apt-get install <em>srt_members</em>'],
   typeSpeed: 0,
   backSpeed: 0,
-  cursorChar: 'â–ˆ',
+  cursorChar: '█',
   onComplete: function () {
 
     $('.user-line .typed-cursor').css('display', 'none');
@@ -1075,7 +1074,7 @@ var consoleLine = new Typed('#user-line', {
           strings: [' <span>cd ~/documents'],
           typeSpeed: 0,
           backSpeed: 0,
-          cursorChar: 'â–ˆ',
+          cursorChar: '█',
           onComplete: function () {
 
             $('.user-line3 p').css('display', 'block');
@@ -1084,12 +1083,16 @@ var consoleLine = new Typed('#user-line', {
               strings: ['<span>tree /<em>srt_members</em>'],
               typeSpeed: 0,
               backSpeed: 0,
-              cursorChar: 'â–ˆ',
+              cursorChar: '█',
               onComplete: function () {
 
                 $('.user-line3 .typed-cursor').css('display', 'none');
                 var consoleLine = new Typed('#console-line2', {
-                  strings: ['<span class="folder">\u2514\u2500\u2500\u2500<em> assets</em></span><br><span class="enter">\u2003\u2003\u251C\u2500\u2500\u2500 members.html</span><br><span class="source">\u2003\u2003\u251C\u2500\u2500\u2500 source_code.zip</span><br><span class="folder ruub-item">\u2003\u2003\u251C\u2500\u2500\u2500 join_stupid.txt</span>',
+                  strings: [
+                    '<span class="folder">└─── <em>assets</em></span><br>' +
+                    '<span class="enter">&emsp;&emsp;├─── members.html</span><br>' +
+                    '<span class="source">&emsp;&emsp;└─── source_code.zip</span>'
+                  ],
                   typeSpeed: 0,
                   backSpeed: 0,
                   cursorChar: '',
@@ -1103,10 +1106,6 @@ var consoleLine = new Typed('#user-line', {
                     });
 
                     document.title = "click an option";
-
-                    $('span.ruub-item').on('click', function () {
-                      window.open("https://discord.gg/stupid");
-                    });
 
                     $('span.source').on('click', function () {
                       window.open("https://www.youtube.com/watch?v=dQw4w9WgXcQ");
