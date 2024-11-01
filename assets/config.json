@@ -5,7 +5,7 @@
 
         {
             "name": "jayson",
-            "tag": "SRT",
+            "tag": "#SRT",
             "badge": "owner",
             "icon": "/assets/img/members/code.webp",
             "socials": {
@@ -25,13 +25,12 @@
         },
 
         {
-            "name": "ruub",
-            "tag": "#1337",
+            "name": "defend",
+            "tag": "#SRT",
             "badge": "developer",
             "icon": "/assets/img/members/ruub.jpg",
             "socials": {
-                "instagram": "rvvb",
-                "discordserver": "woah"
+                "roblox": "dndrunna"
             },
             "bg": "ruub.webp",
             "mbg": "ruub.webp",
