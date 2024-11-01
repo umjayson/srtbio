@@ -4,13 +4,13 @@
     "profiles": [
 
         {
-            "name": "code",
-            "tag": "#0001",
+            "name": "jayson",
+            "tag": "SRT",
             "badge": "owner",
             "icon": "/assets/img/members/code.webp",
             "socials": {
-                "tiktok": "jesse",
-                "twitter": "jsse"
+                "tiktok": "umjaysonn",
+                "discordserver": "jayson"
             },
             "bg": "code.mp4",
             "mbg": "code.webp",
@@ -66,46 +66,6 @@
         },
 
         {
-            "name": "shay",
-            "tag": "",
-            "badge": "inner circle",
-            "icon": "/assets/img/members/shay.webp",
-            "socials": {
-                "tiktok": "shay"
-            },
-            "bg": "shay.webp",
-            "mbg": "shay.webp",
-            "song": "shay.mp3",
-            "theme": {
-                "bgcolor": {
-                    "color1" : "#000",
-                    "color2" : "#010101"
-                },
-                "text": "#fff"
-            }
-        },
-
-        {
-            "name": "squid",
-            "tag": "#0219",
-            "badge": "inner circle",
-            "icon": "/assets/img/members/squid.webp",
-            "socials": {
-                "discordserver": "loser"
-            },
-            "bg": "squid.webp",
-            "mbg": "squid.webp",
-            "song": "squid.mp3",
-            "theme": {
-                "bgcolor": {
-                    "color1" : "#000",
-                    "color2" : "#010101"
-                },
-                "text": "#fff"
-            }
-        },
-
-        {
             "name": "matt",
             "tag": "",
             "badge": "member",
@@ -125,75 +85,12 @@
             }
         },
 
-        {
-            "name": "christian",
-            "tag": "",
-            "badge": "member",
-            "icon": "/assets/img/members/christian.webp",
-            "socials": {
-                "twitch": "christian",
-                "instagram": "p3do",
-                "telegram": "christian"
-            },
-            "bg": "lams.webp",
-            "mbg": "lams.webp",
-            "song": "lams.mp3",
-            "theme": {
-                "bgcolor": {
-                    "color1" : "#000",
-                    "color2" : "#010101"
-                },
-                "text": "#fff"
-            }
-        },
-
-        {
-            "name": "vestilia",
-            "tag": "#BOSS",
-            "badge": "member",
-            "icon": "/assets/img/members/vestilia2.webp",
-            "socials": {
-                "roblox": "115519823",
-                "tiktok": "vestilia"
-            },
-            "bg": "vestilia2.mp4",
-            "mbg": "vestilia2.mp4",
-            "song": "nothing.mp3",
-            "theme": {
-                "bgcolor": {
-                    "color1" : "#000",
-                    "color2" : "#010101"
-                },
-                "text": "#fff"
-            }
-        },
-        
-        {
-            "name": "lana",
-            "tag": "#",
-            "badge": "member",
-            "icon": "/assets/img/members/lana.webp",
-            "socials": {
-                "roblox": "2434039837"
-            },
-            "bg": "lana.webp",
-            "mbg": "lana.webp",
-            "song": "lana.mp3",
-            "theme": {
-                "bgcolor": {
-                    "color1" : "#000",
-                    "color2" : "#010101"
-                },
-                "text": "#fff"
-            }
-        }
-
 
     ],
     
     "config": {
 
-        "discord": "https://discord.gg/loser",
+        "discord": "https://discord.gg/stupid",
 
         "platforms": {
 
