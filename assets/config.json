@@ -12,9 +12,9 @@
                 "tiktok": "umjaysonn",
                 "discordserver": "jayson"
             },
-            "bg": "code.mp4",
-            "mbg": "code.webp",
-            "song": "code.mp3",
+            "bg": "jayson.mp4",
+            "mbg": "jayson.webp",
+            "song": "jayson.mp3",
             "theme": {
                 "bgcolor": {
                     "color1" : "#010101",
@@ -28,13 +28,13 @@
             "name": "defend",
             "tag": "#SRT",
             "badge": "developer",
-            "icon": "/assets/img/members/ruub.jpg",
+            "icon": "/assets/img/members/defend.png",
             "socials": {
                "discordserver": "jayson"
             },
-            "bg": "ruub.webp",
-            "mbg": "ruub.webp",
-            "song": "ruub.mp3",
+            "bg": "defend.webp",
+            "mbg": "defend.webp",
+            "song": "defend.mp3",
             "theme": {
                 "bgcolor": {
                     "color1" : "#010101",
